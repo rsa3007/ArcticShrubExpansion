@@ -9,7 +9,7 @@ This repository contains all the datasets (.xlsx & .csv) and R scripts that are 
 - [BT.xlsx](https://github.com/rsa3007/ArcticShrubExpansion/files/15485457/BT.xlsx)
   Measurements of Standing Biomass of Green Algae, Diatoms and Cyanobacteria. Five measurements were taken per location.
 - [Inv_Comp.xlsx](https://github.com/rsa3007/ArcticShrubExpansion/files/15485280/Inv_Comp.xlsx)
-  The data on invertebrate taxa abundance that was found in each replicate. This also containts the calculations of total abundance, species richness, Shannon's diversity & evenness in the same dataframe.
+  The data on invertebrate taxa abundance that was found in each replicate. This also contains the calculations of total abundance, species richness, Shannon's diversity & evenness in the same dataframe.
 - [FFG_fd.xlsx](https://github.com/rsa3007/ArcticShrubExpansion/files/15485337/FFG_fd.xlsx)
   The classification of invertebrate taxa into the functional groups: Shredders, Collectors, Grazers, and Predators.
 - [Abundance_Matrix_fd.xlsx](https://github.com/rsa3007/ArcticShrubExpansion/files/15485346/Abundance_Matrix_fd.xlsx)
